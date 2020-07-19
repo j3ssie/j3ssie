@@ -10,6 +10,6 @@
 
 If you love my tools and would like to support my work, please check out some donation methods below.
 
-|       |  |
-| :---        |    :----:   |
 | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)      | <a href="https://patreon.com/j3ssie"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2Fj3ssie&style=for-the-badge"></a>       |
+| :---        |    :----:   |
+|       |  |
