@@ -10,5 +10,6 @@
 
 If you love my tools and would like to support my work, please check out some donation methods below.
 
-| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)      | <a href="https://patreon.com/j3ssie"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dj3ssie%26type%3Dpatrons&style=for-the-badge"></a>       |
-| :---        |    :----:   |
+
+| [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/j3ssiejjj)  | <a href="https://patreon.com/j3ssie"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dj3ssie%26type%3Dpatrons&style=for-the-badge"></a>   | <a href="https://www.buymeacoffee.com/j3ssie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> | 
+| :---        |    :----:    |    ----:   |
