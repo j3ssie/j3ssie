@@ -2,7 +2,7 @@
 <h3 align="center">A passionate security engineer and creator of Osmedeus, Jaeles and Metabigor.</h3>
 
 <p align="center">
-  <a href="https://twitter.com/j3ssejjj">
+  <a href="https://twitter.com/j3ssiejjj">
     <img src="https://img.shields.io/twitter/follow/j3ssiejjj?style=for-the-badge&label=%40j3ssiejjj&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">  </a>
   <a href="https://www.linkedin.com/in/ai-ho-0525a710b/">
     <img src="https://img.shields.io/badge/-Ai%20Ho-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
