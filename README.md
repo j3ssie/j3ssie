@@ -12,7 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://paypal.me/j3ssiejjj"><img src="https://img.shields.io/badge/-Paypal-blue?style=for-the-badge&logo=Paypal&logoColor=&labelColor=white&color=gray"></a>
   <a href="https://www.patreon.com/j3ssie"><img src="https://img.shields.io/badge/-Patreon-blue?style=for-the-badge&logo=Patreon&logoColor=&labelColor=white&color=gray"></a>
+  <a href="https://paypal.me/j3ssiejjj"><img src="https://img.shields.io/badge/-Paypal-blue?style=for-the-badge&logo=Paypal&logoColor=&labelColor=white&color=gray"></a>
+  <a href="https://ko-fi.com/j3ssie"><img src="https://img.shields.io/badge/-Kofi-EC5252?style=for-the-badge&logo=Kofi&l&logoColor=&labelColor=white&color=gray"></a>
   <a href="https://docs.osmedeus.org/donation/#for-crypto-fan"><img src="https://img.shields.io/badge/-Cryptocurrency-blue?style=for-the-badge&logo=Bitcoin&logoColor=&labelColor=white&color=gray"></a>
 </p>
