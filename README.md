@@ -1,19 +1,32 @@
-<p align="center">
-  <a href="https://twitter.com/j3ssiejjj"><img src="https://img.shields.io/badge/-%40j3ssiejjj-blue?style=for-the-badge&logo=Twitter&logoColor=00AEFF&labelColor=black&color=black"></a>
-  <a href="https://www.linkedin.com/in/ai-ho-0525a710b/"><img src="https://img.shields.io/badge/-Ai%20Ho-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black"></a>
-  <a href="https://j3ssie.github.io/"><img src="https://img.shields.io/badge/j3ssie.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black"></a>
-  <a href="mailto:j3ssiejjj@gmail.com"><img src="https://img.shields.io/badge/j3ssiejjj@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black"></a>
+### Hi there, I'm Ai Ho (aka [j3ssie](https://j3ssie.github.io/) or Jessie) 👋
+
+Security engineer passionate about automation and building tools that make security work smarter. Currently building an AI-Powered Vulnerability Scanner.
+
+### 🛠️ Projects
+
+| Project | Description |
+|---------|-------------|
+| [Osmedeus](https://www.osmedeus.org/) | A Modern Orchestration Engine for Security. Automation, Orchestration, AI & Attack Surface Management. |
+| [Jaeles](https://github.com/jaeles-project/jaeles) | The Swiss Army knife for automated Web Application Testing. A powerful scanner with customizable detection signatures. |
+| [Metabigor](https://github.com/j3ssie/metabigor) | OSINT power without API key hassle |
+
+---
+
+### 📬 Get in Touch
+
+<p>
+  <a href="https://x.com/j3ssie"><img src="https://img.shields.io/badge/-%40j3ssie-blue?style=for-the-badge&logo=X&logoColor=white&labelColor=black&color=black"></a>
+  <a href="mailto:jessie.ho@proton.me"><img src="https://img.shields.io/badge/jessie.ho@proton.me-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black"></a>
+  <a href="https://www.linkedin.com/in/ai-ho/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black"></a>  <a href="https://j3ssie.github.io/"><img src="https://img.shields.io/badge/j3ssie.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black"></a>
+
 </p>
 
-<p align="center" width="100%"><a href="https://github.com/j3ssie"><img src="./github-metrics.svg"></a></p>
+### ❤️ Support My Work
 
-<p align="center">
- If you love my tools and would like to support my work, please check out some donation methods below. 
-</p>
+If you love my tools and want to support my work, please check out the options below.
 
-<p align="center">
-  <a href="https://www.patreon.com/j3ssie"><img src="https://img.shields.io/badge/-Patreon-blue?style=for-the-badge&logo=Patreon&logoColor=&labelColor=white&color=gray"></a>
-  <a href="https://paypal.me/j3ssiejjj"><img src="https://img.shields.io/badge/-Paypal-blue?style=for-the-badge&logo=Paypal&logoColor=&labelColor=white&color=gray"></a>
-  <a href="https://ko-fi.com/j3ssie"><img src="https://img.shields.io/badge/-Kofi-EC5252?style=for-the-badge&logo=Kofi&l&logoColor=&labelColor=white&color=gray"></a>
-  <a href="https://docs.osmedeus.org/donation/#for-crypto-fan"><img src="https://img.shields.io/badge/-Cryptocurrency-blue?style=for-the-badge&logo=Bitcoin&logoColor=&labelColor=white&color=gray"></a>
+<p>
+  <a href="https://www.patreon.com/j3ssie"><img src="https://img.shields.io/badge/-Patreon-blue?style=for-the-badge&logo=Patreon&logoColor=00AEFF&labelColor=white&color=black"></a>
+  <a href="https://www.paypal.com/paypalme/j3ssiejjj"><img src="https://img.shields.io/badge/-Paypal-blue?style=for-the-badge&logo=Paypal&logoColor=00AEFF&labelColor=white&color=black"></a>
+  <a href="https://docs.osmedeus.org/sponsor"><img src="https://img.shields.io/badge/-Other%20Methods-blue?style=for-the-badge&logo=Bitcoin&logoColor=00AEFF&labelColor=white&color=black"></a>
 </p>
