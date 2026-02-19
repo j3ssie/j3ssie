@@ -4,10 +4,8 @@ Security engineer passionate about automation and building tools that make secur
 
 ### 🛠️ Projects
 
-- [Osmedeus](https://www.osmedeus.org/) — A modern security orchestration engine powering automation, AI-driven workflows, and attack surface management.
-
+- [Osmedeus](https://www.osmedeus.org/) - A modern security orchestration engine powering automation, AI-driven workflows, and attack surface management.
 - [Jaeles](https://github.com/jaeles-project/jaeles) - The Swiss Army knife for automated Web Application Testing. A powerful scanner with customizable detection signatures. 
-
 - [Metabigor](https://github.com/j3ssie/metabigor) - OSINT power without API key hassle 
 
 ---
