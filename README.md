@@ -16,7 +16,7 @@ Security engineer passionate about automation and building tools that make secur
 <p align="center">
   <a href="https://x.com/j3ssie"><img src="https://img.shields.io/badge/-%40j3ssie-blue?style=for-the-badge&logo=X&logoColor=white&labelColor=black&color=black"></a>
   <a href="mailto:jessie.ho@proton.me"><img src="https://img.shields.io/badge/jessie.ho@proton.me-0078D4?style=for-the-badge&logo=Gmail&logoColor=00AEFF&labelColor=black&color=black"></a>
-  <a href="https://www.linkedin.com/in/ai-ho/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black"></a>  <a href="https://j3ssie.github.io/"><img src="https://img.shields.io/badge/j3ssie.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black"></a>
+  <a href="https://www.linkedin.com/in/jessie-aiho/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black"></a>  <a href="https://j3ssie.github.io/"><img src="https://img.shields.io/badge/j3ssie.github.io-0078D4?style=for-the-badge&logo=Google-Chrome&logoColor=00AEFF&labelColor=black&color=black"></a>
 
 </p>
 
