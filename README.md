@@ -1,4 +1,4 @@
-### Hi there, I'm Ai Ho (aka [j3ssie](https://j3ssie.github.io/) or Jessie) 👋
+### Hi there, I'm Ai Ho (aka [j3ssie](https://j3ssie.github.io/) or Jessie Ho) 👋
 
 Security engineer passionate about automation and building tools that make security work smarter. Currently building an agentic vulnerability scanner [Vigolium](https://github.com/vigolium).
 
