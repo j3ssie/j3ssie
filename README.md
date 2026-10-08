@@ -1,9 +1,10 @@
 ### Hi there, I'm Ai Ho (aka [j3ssie](https://j3ssie.github.io/) or Jessie Ho) 👋
 
-Security engineer passionate about automation and building tools that make security work smarter. Currently building an agentic vulnerability scanner [Vigolium](https://www.vigolium.com/).
+Security engineer passionate about automation and building tools that make security work smarter. Currently building an An autonomous offensive-security agent
+[Gimorra](https://github.com/gimorra) and [Vigolium](https://www.vigolium.com/).
 
 ### 🛠️ Projects
-
+- [Gimorra](https://gimorra.vigolium.com/) - An autonomous offensive security agent
 - [Vigolium](https://www.vigolium.com/) - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and precision.
 - [Osmedeus](https://www.osmedeus.org/) - A modern security orchestration engine powering automation, AI-driven workflows, and attack surface management.
 - [Jaeles](https://github.com/jaeles-project/jaeles) - The Swiss Army knife for automated Web Application Testing. A powerful scanner with customizable detection signatures.
